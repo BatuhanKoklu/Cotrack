@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "924742698425",
+    "firebase_url": "https://cotrack-797dd.firebaseio.com",
+    "project_id": "cotrack-797dd",
+    "storage_bucket": "cotrack-797dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924742698425:android:63731d496dad863f86e268",
+        "android_client_info": {
+          "package_name": "com.batuhankoklu.cotrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924742698425-6jqnsqa5f3f3h2hoh4cmd8mkbdgmkm3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKrn1zJhst3v5eu0D3AK67VaGcFjuyL00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924742698425-6jqnsqa5f3f3h2hoh4cmd8mkbdgmkm3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
